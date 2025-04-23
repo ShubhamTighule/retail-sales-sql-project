@@ -57,7 +57,8 @@ Used for simplifying complex queries into readable parts.
 
 💰 Top Customers: The top 5% of customers contributed to a large portion of total profit.
 
-###Final Thoughts
+###Final Thoughts###
+
 This project demonstrates practical SQL skills for real-world data analysis — from cleaning and organizing data to extracting strategic insights using CTEs, window functions, and subqueries.
 
 ###Tools Used
